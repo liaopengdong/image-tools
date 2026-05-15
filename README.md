@@ -4,7 +4,7 @@ Private browser-based image utilities for resizing, converting, compressing, and
 
 ## Included
 
-- 12 browser-based tools.
+- 24 browser-based tools.
 - 4 guide pages.
 - Privacy, terms, disclaimer, contact, sitemap, robots, and GitHub Pages support.
 
